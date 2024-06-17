@@ -9,4 +9,13 @@
 *.tfstate.*
 
 # own secret vars store.
+<<<<<<< HEAD
 personal.auto.tfvars
+=======
+personal.auto.tfvars
+
+
+terraform.tfvars
+
+tfplan
+>>>>>>> 54ac32f0bf329dff32fd6422edfdc3b8690cd5d4

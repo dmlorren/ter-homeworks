@@ -16,7 +16,6 @@
         state: started
         msg: "ssh server is not running"
 
-
   tasks:
     - name: Install Nginx Web Server on Debian Family
       apt:
